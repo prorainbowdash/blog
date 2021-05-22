@@ -1,0 +1,33 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.movie i{
+    float:right;
+}
+.rainbow{
+    width:200px;
+}
+.movie{
+    font:20px;
+    width:100%;
+    display:inline-block;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+.rain{
+    cursor:pointer;
+}
